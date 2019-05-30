@@ -1,2 +1,0 @@
-# mina
-Created with CodeSandbox
